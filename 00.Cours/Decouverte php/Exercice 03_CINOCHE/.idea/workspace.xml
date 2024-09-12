@@ -5,8 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5a05e35f-0321-4a0b-8e5d-15d062e6563b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Ex03_CINOCHE_Demande.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex03_CINOCHE_Reponse.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercice 01_IMC/Ex01_IMC_1Fichier.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercice 02_AutoEcole/Ex02_AutoEcole_1Fichier.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex03_CINOCHE_1Fichier.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercice 01_IMC/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercice 01_IMC/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercice 01_IMC/Ex1_IMC_Demande.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercice 01_IMC/Ex1_IMC_Demande.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercice 02_AutoEcole/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercice 02_AutoEcole/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex03_CINOCHE_Demande.php" beforeDir="false" afterPath="$PROJECT_DIR$/Ex03_CINOCHE_Demande.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex03_CINOCHE_Reponse.php" beforeDir="false" afterPath="$PROJECT_DIR$/Ex03_CINOCHE_Reponse.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,9 +27,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
   </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2lpbpwXf1bN4cilZjnJ7STnualY" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -35,6 +42,7 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Projet/GitHub/Php_Projects/00.Cours/Decouverte php/Exercice 03_CINOCHE",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -60,6 +68,9 @@
       <option name="presentableId" value="Default" />
       <updated>1725880151285</updated>
       <workItem from="1725880152306" duration="595000" />
+      <workItem from="1726140122506" duration="2380000" />
+      <workItem from="1726151772647" duration="905000" />
+      <workItem from="1726152717149" duration="138000" />
     </task>
     <servers />
   </component>

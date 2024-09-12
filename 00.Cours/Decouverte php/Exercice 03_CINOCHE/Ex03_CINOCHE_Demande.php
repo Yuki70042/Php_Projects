@@ -4,7 +4,6 @@
 
     </head>
 
-
     <body>
 
     <h1>Cinoche</h1>
@@ -34,14 +33,13 @@
 
         <br>
 
-        <input type="checkbox" name="Film_3D" value="une checkbox"> Majoration Film 3D : 1,50 Euro <br>
-        <input type="checkbox" name="Coupon" value="une seconde checkox"> Coupon reduction : - 1 Euro <br>
+        <input type="checkbox" name="Film_3D"> Majoration Film 3D : 1,50 Euro <br>
+        <input type="checkbox" name="Coupon"> Coupon reduction : - 1 Euro <br>
 
-            <br>
+        <br>
 
         <input type="submit" name="Price_button" value="Decouvrir le prix de ma place">
     </form>
-
 
     </body>
 
