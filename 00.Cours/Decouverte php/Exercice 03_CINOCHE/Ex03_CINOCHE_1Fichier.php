@@ -15,30 +15,30 @@ function afficherFormulaire($jour_semaine="",$time="",$type_tarif="", $Coupon=""
     <h4>Tarif</h4>
     <form method="post" action="Ex03_CINOCHE_1Fichier.php">
         Jour de la semaine : <select name="jour_semaine">
-            <option value="1"'.($jour_semaine=="1" ? "selected" : "").'>Lundi</option>
-            <option value="2"'.($jour_semaine=="2" ? "selected" : "").'>Mardi</option>
-            <option value="3"'.($jour_semaine=="3" ? "selected" : "").'>Mercredi</option>
-            <option value="4"'.($jour_semaine=="4" ? "selected" : "").'>Jeudi</option>
-            <option value="5"'.($jour_semaine=="5" ? "selected" : "").'>Vendredi</option>
-            <option value="6"'.($jour_semaine=="6" ? "selected" : "").'>Samedi</option>
-            <option value="7"'.($jour_semaine=="7" ? "selected" : "").'>Dimanche</option>
+            <option value="1"'. ($jour_semaine=="1" ? "selected" : "") .'>Lundi</option>
+            <option value="2"'. ($jour_semaine=="2" ? "selected" : "") .'>Mardi</option>
+            <option value="3"'. ($jour_semaine=="3" ? "selected" : "") .'>Mercredi</option>
+            <option value="4"'. ($jour_semaine=="4" ? "selected" : "") .'>Jeudi</option>
+            <option value="5"'. ($jour_semaine=="5" ? "selected" : "") .'>Vendredi</option>
+            <option value="6"'. ($jour_semaine=="6" ? "selected" : "") .'>Samedi</option>
+            <option value="7"'. ($jour_semaine=="7" ? "selected" : "") .'>Dimanche</option>
         </select>
 
         <br> <br>
 
-    Heure : <input type="time" name="time">
+    Heure : <input type="time" name="time" value="' . (!empty($time) ? $time : "12:00") . '">
 
         <br> <br>
 
-    Type de ticket :     <input type="radio" name="type_tarif" value="1"'.(!$type_tarif || $type_tarif == "1" ? "checkbox" : "").'>Plein Tarif : 8,70 Euros <br>
-        Type de ticket : <input type="radio" name="type_tarif" value="2"'.($type_tarif == "2" ? "checkbox" : "").' >  Etudiant ou mineur : 5,90 Euros <br>
-        Type de ticket : <input type="radio" name="type_tarif" value="3"'.($type_tarif == "3" ? "checkbox" : "").' >  Tarif reduit autre : 6,90 euros <br>
-        Type de ticket : <input type="radio" name="type_tarif" value="4"'.($type_tarif == "4" ? "checked" : "") .'>  Tarif special CE : 5,20 Euros <br>
+    Type de ticket :     <input type="radio" name="type_tarif" value="1"'. (!$type_tarif || $type_tarif == "1" ? "checked" : "") . '>Plein Tarif : 8,70 Euros <br>
+        Type de ticket : <input type="radio" name="type_tarif" value="2"'. ($type_tarif == "2" ? "checked" : "") . ' >  Etudiant ou mineur : 5,90 Euros <br>
+        Type de ticket : <input type="radio" name="type_tarif" value="3"'. ($type_tarif == "3" ? "checked" : "") . ' >  Tarif reduit autre : 6,90 euros <br>
+        Type de ticket : <input type="radio" name="type_tarif" value="4"'. ($type_tarif == "4" ? "checked" : "") . '>  Tarif special CE : 5,20 Euros <br>
 
         <br>
 
-        <input type="checkbox" name="Film_3D"> Majoration Film 3D : 1,50 Euro <br>
-        <input type="checkbox" name="Coupon"> Coupon reduction : - 1 Euro <br>
+        <input type="checkbox" name="Film_3D" value="1" ' . ($Film3D ? "checked" : "") . '> Majoration Film 3D : 1,50 Euro <br>
+        <input type="checkbox" name="Coupon" "1" ' . ($Coupon ? "checked" : "") . '> Coupon reduction : - 1 Euro <br>
 
         <br>
 
