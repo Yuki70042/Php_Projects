@@ -1,15 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="1dd20a97-8df4-4013-a6f6-8938c98db34b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Ex01_IMC_Reponse.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex1_IMC_Demande.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/Decouverte php.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/php.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ex01_IMC_Reponse.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Exercice01_IMC_Demande.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercice 02_AutoEcole/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercice 02_AutoEcole/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercice 03_CINOCHE/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercice 03_CINOCHE/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercice 03_CINOCHE/Ex03_CINOCHE_1Fichier.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercice 03_CINOCHE/Ex03_CINOCHE_1Fichier.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,10 +21,13 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
   </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2lpZ9dGy5qOuYfcfmtgCew7Nk64" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -35,6 +36,11 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Projet/GitHub/Php_Projects/00.Cours/Decouverte php/Exercice 03_CINOCHE",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
@@ -56,6 +62,13 @@
       <option name="presentableId" value="Default" />
       <updated>1725878827688</updated>
       <workItem from="1725878828725" duration="222000" />
+      <workItem from="1726140099186" duration="22000" />
+      <workItem from="1726142681848" duration="4348000" />
+      <workItem from="1726147642707" duration="52000" />
+      <workItem from="1726147778794" duration="8000" />
+      <workItem from="1726147990985" duration="43000" />
+      <workItem from="1726148152093" duration="16000" />
+      <workItem from="1726153760664" duration="29000" />
     </task>
     <servers />
   </component>
